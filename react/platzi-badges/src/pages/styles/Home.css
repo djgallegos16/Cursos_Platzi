@@ -1,0 +1,22 @@
+.home_container{
+   text-align: center;
+   align-items: center;
+   display: flex;
+   background-color: black;
+   color: white;
+   background-image: url('../../images/stars.svg');
+}
+.logo_img{
+   margin: 10% 5%;
+   width: 30%;
+}
+
+.home_text{
+   width: 50%;
+}
+
+.home_badges_buttons{
+   display: flex;
+	justify-content: center;
+	margin-bottom: 1rem;
+}

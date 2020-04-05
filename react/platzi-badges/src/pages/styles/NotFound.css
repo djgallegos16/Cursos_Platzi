@@ -1,0 +1,26 @@
+.error_container{
+   text-align: center;
+   align-items: center;
+   display: flex;
+   background-color: black;
+   color: white;
+   background-image: url('../../images/stars.svg');
+}
+.logo_img{
+   margin: 10% 5%;
+   width: 30%;
+}
+
+.error_text h1{
+   font-size: 90px;
+}
+
+.error_text{
+   width: 50%;
+}
+
+.error_badges_buttons{
+   display: flex;
+	justify-content: center;
+	margin-bottom: 1rem;
+}

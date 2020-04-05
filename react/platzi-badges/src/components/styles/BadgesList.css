@@ -1,0 +1,36 @@
+.BadgesList ul>li {
+   margin-bottom: 1rem;
+ }
+.Badge__row{
+   background-color: white;
+   display: flex;
+   box-shadow: 5px 5px gainsboro;
+   margin: 5%;
+   border: solid 1px gainsboro;
+}
+.Badge__container{
+   margin: 2%;
+}
+
+.Badge__container p{
+   margin: 0;
+}
+
+.Badge__logo{
+   border-radius: 25%;
+   margin: 5px;
+}
+
+.Badge__name{
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.Badge__email{
+   color: #53a6ff;
+   font-size: 15px;
+}
+
+.Badge__job{
+   font-size: 12px;
+}
